@@ -1,0 +1,1 @@
+export const Checkbox = ({ checked }) => <input type='checkbox' checked={checked} readOnly />;
